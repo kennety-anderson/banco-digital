@@ -1,0 +1,23 @@
+{
+  "name": "banco-digital",
+  "version": "1.0.0",
+  "description": "\"Simulador de um banco digital\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennety-anderson/banco-digital.git"
+  },
+  "author": "kennety anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kennety-anderson/banco-digital/issues"
+  },
+  "homepage": "https://github.com/kennety-anderson/banco-digital#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
